@@ -1,9 +1,9 @@
 # ml-predicting-chess-winners
 Machine learning project to predict chess winners from kaggle dataset https://www.kaggle.com/mysarahmadbhat/online-chess-games
 
-# results:
+# Results:
 
-Acuracia baseada em 1000 registros nunca utilizados durante o treinamento: <b>59.8%</b>.
+Acuracy based on 1000 matches that was never used during model training/tests: <b>59.8%</b>.  
 
 ![results](https://user-images.githubusercontent.com/11688998/156864925-bedc3e23-dbdd-4999-8599-a6a7b5610b0d.png)
 
